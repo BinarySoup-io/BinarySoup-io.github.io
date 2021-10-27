@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="/favicon.png" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		
+
+		
+
+		<link rel="modulepreload" href="/_app/start-d933b1dc.js">
+		<link rel="modulepreload" href="/_app/chunks/vendor-2d7d6bc2.js">
+		<link rel="modulepreload" href="/_app/pages/__layout.svelte-2973b314.js">
+		<link rel="modulepreload" href="/_app/pages/[category].svelte-f2942aca.js">
+		<link rel="stylesheet" href="/_app/assets/start-464e9d0a.css">
+		<link rel="stylesheet" href="/_app/assets/pages/__layout.svelte-f68a67f8.css">
+
+		<script type="module">
+			import { start } from "/_app/start-d933b1dc.js";
+			start({
+				target: document.querySelector("#svelte"),
+				paths: {"base":"","assets":""},
+				session: {},
+				host: location.host,
+				route: true,
+				spa: false,
+				trailing_slash: "never",
+				hydrate: {
+					status: 200,
+					error: null,
+					nodes: [
+						import("/_app/pages/__layout.svelte-2973b314.js"),
+						import("/_app/pages/[category].svelte-f2942aca.js")
+					],
+					page: {
+						host: location.host, // TODO this is redundant
+						path: "\u002Falkoholfreie-cocktails",
+						query: new URLSearchParams(""),
+						params: {category:"alkoholfreie-cocktails"}
+					}
+				}
+			});
+		</script>
+	</head>
+	<body>
+		<div id="svelte">
+
+
+<body class="h-screen bg-black"><div class="p-6 gap-6 grid grid-cols-4"><a href="/" class="col-span-4"><img src="mood.png" alt=""></a>
+
+    
+
+        <p class="text-white mx-auto col-span-4">loading ...</p>
+
+    
+
+    <a href="/" class="p-4 bg-white shadow rounded-lg"><svg class="min-w-full" xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#000000"><path d="M0 0h24v24H0V0z" fill="none"></path><path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"></path></svg></a></div></body>
+
+
+
+			
+		</div>
+	</body>
+</html>
