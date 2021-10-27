@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="/favicon.png" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		
+
+		
+
+		<link rel="modulepreload" href="/BinarySoup-io/internal/start-8d2b79be.js">
+		<link rel="modulepreload" href="/BinarySoup-io/internal/chunks/vendor-2d7d6bc2.js">
+		<link rel="modulepreload" href="/BinarySoup-io/internal/pages/__layout.svelte-2973b314.js">
+		<link rel="modulepreload" href="/BinarySoup-io/internal/pages/index.svelte-5e921cf4.js">
+		<link rel="stylesheet" href="/BinarySoup-io/internal/assets/start-464e9d0a.css">
+		<link rel="stylesheet" href="/BinarySoup-io/internal/assets/pages/__layout.svelte-f68a67f8.css">
+
+		<script type="module">
+			import { start } from "/BinarySoup-io/internal/start-8d2b79be.js";
+			start({
+				target: document.querySelector("#svelte"),
+				paths: {"base":"/BinarySoup-io","assets":""},
+				session: {},
+				host: location.host,
+				route: true,
+				spa: false,
+				trailing_slash: "never",
+				hydrate: {
+					status: 200,
+					error: null,
+					nodes: [
+						import("/BinarySoup-io/internal/pages/__layout.svelte-2973b314.js"),
+						import("/BinarySoup-io/internal/pages/index.svelte-5e921cf4.js")
+					],
+					page: {
+						host: location.host, // TODO this is redundant
+						path: "\u002F",
+						query: new URLSearchParams(""),
+						params: {}
+					}
+				}
+			});
+		</script>
+	</head>
+	<body>
+		<div id="svelte">
+
+
+<body class="h-screen bg-black"><div class="p-6 gap-6 grid grid-cols-4">
+  <a href="/" class="col-span-4"><img src="mood.png" alt=""></a>
+  
+
+  
+  <div class="bg-white p-2 flex col-span-3 rounded-lg"><svg class="min-h-full" xmlns="http://www.w3.org/2000/svg" height="48px" viewBox="0 0 24 24" width="48px" fill="#000000"><path d="M0 0h24v24H0V0z" fill="none"></path><path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"></path></svg>
+
+    <input class="w-full focus:outline-none p-2" type="text" placeholder="durchsuchen ..." value=""></div>
+  
+
+  
+  <a href="favorites" class="p-4 bg-white shadow rounded-lg"><svg class="min-h-full min-w-full" xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#000000"><path d="M0 0h24v24H0V0z" fill="none"></path><path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"></path></svg></a>
+  
+
+  <a href="alkoholfreie-cocktails" class="col-span-2 p-4 bg-white text-center shadow rounded-lg"><svg class="min-w-full" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" height="48px" viewBox="0 0 24 24" width="48px" fill="#000000"><g><rect fill="none" height="24" width="24"></rect><path d="M21.19,21.19L2.81,2.81L1.39,4.22l8.23,8.23L11,14v5H6v2h12v-0.17l1.78,1.78L21.19,21.19z M13,19v-3.17L16.17,19H13z M7.83,5l-2-2H21v2l-6.2,6.97l-1.42-1.42L14.77,9h-2.94l-2-2h6.74l1.78-2H7.83z"></path></g></svg>
+    ALKOHOLFREIE COCKTAILS
+  </a>
+
+  <a href="classic-cocktails" class="col-span-2 p-4 bg-white text-center shadow rounded-lg"><svg class="min-w-full" xmlns="http://www.w3.org/2000/svg" height="48px" viewBox="0 0 24 24" width="48px" fill="#000000"><path d="M0 0h24v24H0V0z" fill="none"></path><path d="M14.77 9L12 12.11 9.23 9h5.54M21 3H3v2l8 9v5H6v2h12v-2h-5v-5l8-9V3zM7.43 7L5.66 5h12.69l-1.78 2H7.43z"></path></svg> 
+    CLASSIC COCKTAILS
+  </a>
+
+  <a href="pinsa" class="col-span-2 flex flex-wrap p-4 bg-white text-center shadow rounded-lg"><svg class="min-w-full" xmlns="http://www.w3.org/2000/svg" height="48px" viewBox="0 0 24 24" width="48px" fill="#000000"><path d="M0 0h24v24H0V0z" fill="none"></path><path d="M12 2C8.43 2 5.23 3.54 3.01 6L12 22l8.99-16C18.78 3.55 15.57 2 12 2zm0 15.92L5.51 6.36C7.32 4.85 9.62 4 12 4s4.68.85 6.49 2.36L12 17.92zM9 5.5c-.83 0-1.5.67-1.5 1.5S8.17 8.5 9 8.5s1.5-.67 1.5-1.5S9.82 5.5 9 5.5zm1.5 7.5c0 .83.67 1.5 1.5 1.5.82 0 1.5-.67 1.5-1.5s-.68-1.5-1.5-1.5-1.5.67-1.5 1.5z"></path></svg>
+    <p class="m-auto">PINSA</p></a></div></body>
+
+
+
+			
+		</div>
+	</body>
+</html>

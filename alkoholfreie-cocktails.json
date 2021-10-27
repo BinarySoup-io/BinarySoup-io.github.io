@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Virgin Mojito",
+        "price": "5,90 €",
+        "description": "Minze, Limetten, Lime Juice 6, Puderzucker, Zitronenlimonade"
+    },
+    {
+        "name": "Virgin Himbeermojito",
+        "price": "5,90 €",
+        "description": "Himbeeren, Minze, Limetten, Puderzucker, Ginger Ale"
+    },
+    {
+        "name": "Virgin Caipirinha",
+        "price": "5,90 €",
+        "description": "Rohrzucker, Limetten, Lime Juice"
+    },
+    {
+        "name": "Fresh Garden -18",
+        "price": "5,90 €",
+        "description": "Minze, Orange, Limette, Rohrzucker, Ginger Ale"
+    },
+    {
+        "name": "Florida",
+        "price": "5,90 €",
+        "description": "Orangensaft, Ananassaft, Maracujasaft, Grenadinesirup"
+    },
+    {
+        "name": "Mood Homemade Ice Tea",
+        "price": "5,90 €",
+        "description": "Orange, Limetten, Pfirsiche, Zuckersirup, Lime Juice, Schwarztee, Soda"
+    }
+]
