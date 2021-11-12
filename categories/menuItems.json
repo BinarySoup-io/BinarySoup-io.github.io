@@ -1,0 +1,120 @@
+[
+  {
+      "name": "Solero",
+      "category": "Classic Cocktails",
+      "price": "6,90 €",
+      "description": "Vodka, Maracujanektar, Orangensaft, Vaniliesirup, Zitronensaft, Lime Juice"
+  },
+  {
+      "name": "Touch Down",
+      "price": "6,90 €",
+      "category": "Classic Cocktails",
+      "description": "Vodka, Apricot Brandy, Grenadinesirup, Maracujanektar, Orangensaft, Zitronensaft, Lime Juice"
+  },
+  {
+      "name": "Bahama Mama",
+      "price": "6,90 €",
+      "category": "Classic Cocktails",
+      "description": "Brauner Rum, Malibu, Ananassaft, Grenadinesirup, Zitronensaft, Lime Juice"
+  },
+  {
+      "name": "Gin Fizz",
+      "price": "6,90 €",
+      "category": "Classic Cocktails",
+      "description": "Gin, Triple Sec, Zitronensaft, Rohrzuckersirup, Puderzucker, Soda"
+  },
+  {
+      "name": "Whiskey Sour",
+      "price": "6,90 €",
+      "category": "Classic Cocktails",
+      "description": "Whiskey, Zitrone, Rohrzuckersirup, Puderzucker"
+  },
+  {
+      "name": "Pina Colada",
+      "price": "6,90 €",
+      "category": "Classic Cocktails",
+      "description": "Brauner Rum, Weißer Rum, Ananas, Kokos, Sahne"
+  },
+
+
+  {
+    "name": "Virgin Mojito",
+    "price": "5,90 €",
+    "category": "Non Alcoholic Cocktails",
+    "description": "Minze, Limetten, Lime Juice 6, Puderzucker, Zitronenlimonade"
+},
+{
+    "name": "Virgin Himbeermojito",
+    "price": "5,90 €",
+    "category": "Non Alcoholic Cocktails",
+    "description": "Himbeeren, Minze, Limetten, Puderzucker, Ginger Ale"
+},
+{
+    "name": "Virgin Caipirinha",
+    "price": "5,90 €",
+    "category": "Non Alcoholic Cocktails",
+    "description": "Rohrzucker, Limetten, Lime Juice"
+},
+{
+    "name": "Fresh Garden -18",
+    "price": "5,90 €",
+    "category": "Non Alcoholic Cocktails",
+    "description": "Minze, Orange, Limette, Rohrzucker, Ginger Ale"
+},
+{
+    "name": "Florida",
+    "price": "5,90 €",
+    "category": "Non Alcoholic Cocktails",
+    "description": "Orangensaft, Ananassaft, Maracujasaft, Grenadinesirup"
+},
+{
+    "name": "Mood Homemade Ice Tea",
+    "price": "5,90 €",
+    "category": "Non Alcoholic Cocktails",
+    "description": "Orange, Limetten, Pfirsiche, Zuckersirup, Lime Juice, Schwarztee, Soda"
+},
+
+
+{
+    "name": "Pinsa Margherita",
+    "price": "9,80 €",
+    "category": "Food",
+    "description": "Tomatensoße, Mozzarella, Kirschtomaten, Basilikum",
+    "tags": ["vegetarisch"]
+},
+{
+    "name": "Pinsa Mood",
+    "price": "12,80 €",
+    "category": "Food",
+    "description": "Parmaschinken, Rucola, Kirschtomaten, Grana Padano, Mozzarella, Tomatensoße, Knoblauch",
+    "tags": []
+},
+{
+    "name": "Pinsa Scampi",
+    "price": "13,80 €",
+    "category": "Food",
+    "description": "Scampi, Zucchini, Mascarpone, Mozzarella, garniert mit Balsamico Creme",
+    "tags": []
+},
+{
+    "name": "Pinsa Salsiccia Picante",
+    "price": "11,80 €",
+    "category": "Food",
+    "description": "Salsiccia Salami (pikant), Mozzarella, Tomatensoße, Grana Padano, Champignons",
+    "tags": ["pikant"]
+},
+{
+    "name": "Pinsa Vegetariana",
+    "price": "11,80 €",
+    "category": "Food",
+    "description": "Tomatensoße, Mozzarella, Grillgemüse, Grana Padano",
+    "tags": ["vegetarisch"]
+},
+{
+    "name": "Pinsa Giardino",
+    "price": "11,80 €",
+    "category": "Food",
+    "description": "Tomatensoße, Mozzarella, Schinken, Champignons, Oliven, Artischocken, Peperoni",
+    "tags": []
+}
+]

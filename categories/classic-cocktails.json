@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Solero",
+        "price": "6,90 €",
+        "description": "Vodka, Maracujanektar, Orangensaft, Vaniliesirup, Zitronensaft, Lime Juice"
+    },
+    {
+        "name": "Touch Down",
+        "price": "6,90 €",
+        "description": "Vodka, Apricot Brandy, Grenadinesirup, Maracujanektar, Orangensaft, Zitronensaft, Lime Juice"
+    },
+    {
+        "name": "Bahama Mama",
+        "price": "6,90 €",
+        "description": "Brauner Rum, Malibu, Ananassaft, Grenadinesirup, Zitronensaft, Lime Juice"
+    },
+    {
+        "name": "Gin Fizz",
+        "price": "6,90 €",
+        "description": "Gin, Triple Sec, Zitronensaft, Rohrzuckersirup, Puderzucker, Soda"
+    },
+    {
+        "name": "Whiskey Sour",
+        "price": "6,90 €",
+        "description": "Whiskey, Zitrone, Rohrzuckersirup, Puderzucker"
+    },
+    {
+        "name": "Pina Colada",
+        "price": "6,90 €",
+        "description": "Brauner Rum, Weißer Rum, Ananas, Kokos, Sahne"
+    }
+]
