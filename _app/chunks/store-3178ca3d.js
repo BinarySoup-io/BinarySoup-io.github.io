@@ -1,1 +1,0 @@
-import{C as a}from"./vendor-13858336.js";let e=new Set;function i(){const{subscribe:s,set:r,update:o}=a(e);return{subscribe:s,set:r,update:o,toggleFavorite:t=>{e.has(t)?e.delete(t):e.add(t),r(e)}}}const c=i();export{c as f};
